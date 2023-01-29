@@ -939,7 +939,7 @@ section {
   padding: 0 8px;
   display: flex;
   height: 40px;
-  width: 550px; margin: 0 40px 15px 0;
+  width: 350px; margin: 0 40px 15px 0;
 }
 
 .progress {
@@ -951,7 +951,7 @@ section {
   padding: 0 5px;
   display: flex;
   height: 40px;
-  width: 550px; margin: 0 30px 20px 0;
+  width: 350px; margin: 0 30px 20px 0;
 }
 
 .progress-value {
